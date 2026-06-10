@@ -34,7 +34,7 @@ Developed an interactive Power BI dashboard to analyze Madhav Store's e-commerce
 1. Download **Power BI Desktop** from [here](https://powerbi.microsoft.com/desktop/).
 2. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/madhav-store-powerbi-dashboard.git
+    https://github.com/nishaldsouza2000/Madhav_Store_Sales_Dashborad
     ```
 3. Open the `.pbix` file in **Power BI Desktop**.
 4. Explore the dashboard and interact with filters and slicers.
