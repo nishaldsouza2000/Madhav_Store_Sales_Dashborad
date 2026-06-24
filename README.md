@@ -4,6 +4,7 @@
 
 Developed an interactive Power BI dashboard to analyze Madhav Store's e-commerce sales performance and generate actionable business insights through data visualization and KPI tracking.
 
+![Madhav_Store_Ecommerce Screenshot](Madhav_Stores_Data_Set.png)
 ## Key Features
 
 - **Total Profit**: ₹37K
